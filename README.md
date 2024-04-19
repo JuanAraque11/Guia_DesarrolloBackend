@@ -4,7 +4,7 @@
 
 En esta guía, te guiaré a través de los conceptos básicos del desarrollo backend usando Python. Aprenderás cómo instalar las herramientas necesarias, crear aplicaciones web simples y conectarte a bases de datos. Esta guía está diseñada para principiantes que no tienen experiencia previa en programación o desarrollo web.
 
-¿Por qué aprender desarrollo backend con Python?
+## ¿Por qué aprender desarrollo backend con Python?
 
 Python es un lenguaje de programación popular y versátil que es ampliamente utilizado para el desarrollo backend. Es relativamente fácil de aprender y tiene una gran comunidad de desarrolladores y recursos. Además, Python tiene una amplia gama de bibliotecas y frameworks que pueden ayudarte a crear aplicaciones web robustas y escalables.
 
@@ -14,6 +14,7 @@ Python es un lenguaje de programación popular y versátil que es ampliamente ut
 
 **- Instalación de Python y herramientas básicas:** Te mostraré cómo instalar Python en tu ordenador y cómo instalar las herramientas básicas que necesitarás para el desarrollo backend.
 Conceptos básicos de programación en Python: Te enseñaré los conceptos básicos de la programación en Python, como variables, tipos de datos, operadores, sentencias de control y funciones.
+
 **- Desarrollo web con Python:** Aprenderás a crear aplicaciones web simples usando el framework Flask.
 
 **- Conexión a bases de datos:** Te mostraré cómo conectarte a una base de datos usando la biblioteca SQLAlchemy.
